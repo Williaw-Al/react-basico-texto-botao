@@ -1,8 +1,10 @@
-# React + Vite
+# Quest React Básico - Texto Colorido
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um projeto simples onde a pessoa digita um texto e pode mudar sua cor.
 
-Currently, two official plugins are available:
+- 4 componentes + App.jsx
+- CSS para todos os componentes
+- Interação do usuário
+- Primeiro projeto com Vite, please feedback!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🦉
