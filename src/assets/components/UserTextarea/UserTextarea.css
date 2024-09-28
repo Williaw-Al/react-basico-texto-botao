@@ -1,0 +1,10 @@
+.UserTextarea textarea{
+    resize: none;
+    font-size: 1em;
+    padding: 5px;
+    width: 300px;
+}
+
+.UserTextarea .AltText{
+    color: var(--color-text);
+}
